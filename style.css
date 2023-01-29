@@ -4,10 +4,25 @@
 	box-sizing:border-box;
 }
 body{
-	background-color:black;
+	background-color:gray;
 	color:red;
 }
-h1{
-	text-align:center;
-	text-decoration:underline;
+div.done{
+	background-color:;
+	max-width:800px;
+	margin:0 auto;
+}
+div.dtwo{
+	float:left;
+}
+div.dtwo img{
+	border-radius:200px;
+	padding:10px;
+}
+div.dthree{
+	border:1px solid black;
+	max-width:230px;
+}
+div.dfour{
+	height:700px;
 }
