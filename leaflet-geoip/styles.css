@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+::selection{
+	background-color:#FF0000FF;
+	color:#000000FF;
+}
+body{
+	background-color:#000000FF;
+	color:#FF0000FF;
+}
+#map{
+	width:1350px;
+	height:600px;
+}

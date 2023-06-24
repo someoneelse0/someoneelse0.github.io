@@ -1,0 +1,18 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+::selection{
+	background-color:#ff0000ff;
+	color:#000000ff;
+}
+body{
+	background-color:#000000ff;
+	color:#ff0000ff;
+}
+#qqr{
+	padding:30px;
+	background-color:#ffffffff;
+	display:none;
+}
