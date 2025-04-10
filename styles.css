@@ -1,0 +1,33 @@
+::selection{
+	background-color:#ff0000ff;
+	color:#000000ff;
+}
+body{
+	background-color:#000000ff;
+	color:#ff0000ff;
+}
+.done {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+.dtwo {
+	flex: 1;
+	text-align: center;
+}
+.dtwo img {
+	max-width: 100%;
+	height: auto;
+}
+.dthree {
+	flex: 1;
+	text-align: center;
+}
+.dfour {
+	flex: 1;
+	text-align: center;
+}
+.dfour p {
+	margin: 0;
+}
